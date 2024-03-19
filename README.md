@@ -50,7 +50,7 @@
   <p><img src="https://github.com/febseo/backtest/assets/163242445/08006af4-55dd-442a-a916-5eeecbc45ce0"></p>
   <br>
   <h5>게시판 워크플로우 영상</h5>
- 
+  https://github.com/febseo/backtest/assets/163242445/3dfd82b9-65c7-4ecc-8ecb-d4d1d412a450
 </div>
 
 
