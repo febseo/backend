@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bose 검색페이지</title>
+    <link rel="shortcut icon" href="./images/fav32x32.png">   
+    <!-- 모바일파비콘(사이즈 = 180X180) -->
+    <link rel="apple-touch-icon=precomposed" href="./images/fav180x180.png">
+    <!-- css -->
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/font.css">
+    <link rel="stylesheet" href="./css/header.css">
+    <link rel="stylesheet" href="./css/searchpage.css">
+    <link rel="stylesheet" href="./css/footer.css">
+    <link rel="stylesheet" href="./css/display_none_scrollbar.css">
+    <script src="./js/jquery-1.12.4.min.js"></script>
+    <script src="./js/jquery-3.3.1.min.js"></script>
+    <script src="./js/items.js"></script>
+    <script src="./js/header.js"></script>
+    <script src="./js/searchpage.js"></script>
+</head>
+<body>
+    <!-- 최상단 이동 버튼 -->
+    <div class="floButtonArea">
+        <button class="floBtn">
+            <img src="./images/icon/btnGotop.png" alt="최상단 이동 버튼">
+        </button>
+    </div>
+    <!-- 챗봇 버튼 -->
+    <div class="chatButtonArea">
+        <button class="chatBtn">
+            <a href="#"><img src="./images/icon/chatbot.png" alt="챗봇"></a>
+        </button>
+    </div>
+    
+    <div id="header"></div>
+
+
+    <div id="search_wrap" class="w1440">
+        <!-- 검색 란 -->
+        <section class="searchArea">
+            <input type="text" id="searchText">
+            <button><img src="./images/icon/search.svg" alt="돋보기"></button>
+        </section>
+
+        <section class="searchMsg">
+            <p>
+                <strong>&lsquo;<span class="searchTextHead">헤드셋</span>&rsquo;</strong>에 대한 검색결과는 총 <strong><span class="searchTextCnt">10</span></strong>건 입니다.
+            </p>
+        </section>
+
+        <!-- 상품리스트 -->
+        <section class="itemListAll">
+            <div class="item"></div>
+        </section>
+
+        <!-- 장바구니 팝업 -->
+        <div class="cartWrap">
+            <div class="cartBody">
+                <p><span class="cartCloseBtn">&times;</span></p>
+                <div class="cartSeperate">
+                    <div class="cartImg">
+                        <img src="./images/hp/hp_type1_img1.jpg" alt="">
+                    </div>
+                    <div class="cartTxt">
+                        <div class="cartTitle">[BOSE] 보스 포터블 홈 스피커 스피커</div>
+                        <div class="cartPriceArea">
+                            <div class="cartPrice">519,000원</div>
+                            <div><img src="./images/icon/share.svg" alt="공유이미지"></div>
+                        </div>
+                        <hr>
+                        
+                        <p><strong>구매혜택</strong> 15,570 적립금 적립예정 적립예정</p>
+                        <p><strong>배송 방법</strong> 택배</p>
+                        <p><strong>배송비</strong> 무료 | 도서산간 배송비 추가</p>
+                        
+                        <h3>색상을 선택해 주세요 (필수) *</h3>
+                        <div class="choiceColors">색상 선택박스</div>
+
+                        <h3>BOSE 프리미엄 선물 서비스</h3>
+                        <div class="selectBox">
+                            <span class="arrowBtn arrowDown"></span>
+							<button>BOSE 프리미엄 선물 서비스 (선택)</button>
+                            <div class="dropDownBox">
+                                <div>
+                                    <a href="#">
+                                        <span>BOSE 쇼핑백</span>
+                                        <span>1,500원</span>
+                                    </a>
+                                </div>
+                                <div>
+                                    <a href="#">
+                                        <span>BOSE 제품 포장</span>
+                                        <span>4,500원</span>
+                                    </a>
+                                </div>
+                                <div>
+                                    <a href="#">
+                                        <span>BOSE 선물 패키지</span>
+                                        <span>6,000원</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="buyBtns">
+                            <button class="buyBtn on">구매하기</button>
+                            <button class="addCart">장바구니</button>
+                            <button class="heart">&hearts;&nbsp;<span>2</span></button>
+                        </div>
+
+                        <h4>네이버페이 구매는 상품 상세페이지 또는 장바구니에 담으신 후 가능합니다.</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div id="footer"></div>
+</body>
+</html>
