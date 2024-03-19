@@ -39,7 +39,7 @@
   
   게시판 |
  ---- |
-  <img src="https://github.com/febseo/backtest/assets/163242445/6df4e404-f551-4268-acd3-7d2acd2c4a90" width="900" height="500"> |
+  <img src="https://github.com/febseo/backtest/assets/163242445/6df4e404-f551-4268-acd3-7d2acd2c4a90" width="850" height="400"> |
 
  
   <br><br>
