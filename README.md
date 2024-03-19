@@ -27,7 +27,7 @@
   
   엔티티 관계도 | 프로젝트 구조
   ---- | ---- |
-  <img src="https://github.com/febseo/backtest/assets/163242445/61b1ca17-3139-43e8-894c-9980e8bc8d42" width="400" height="400"> | <img src="https://github.com/febseo/backtest/assets/163242445/2efc0e52-5fc2-41c6-90e1-d2afaac1bb46" width="400" height="400">
+  <img src="https://github.com/febseo/backtest/assets/163242445/61b1ca17-3139-43e8-894c-9980e8bc8d42" width="500" height="400"> | <img src="https://github.com/febseo/backtest/assets/163242445/2efc0e52-5fc2-41c6-90e1-d2afaac1bb46" width="400" height="400">
 
  <br><br><br>
 
@@ -35,11 +35,11 @@
 
   회원가입 | 로그인
  ---- | ---- |
-  <img src="https://github.com/febseo/backtest/assets/163242445/73dde637-ba2a-4c9c-8a70-e941533dc9f2" width="400" height="400"> | <img src="https://github.com/febseo/backtest/assets/163242445/3e11986b-bdb9-4c23-bb1e-d975d3458411" width="400" height="400"> |
+  <img src="https://github.com/febseo/backtest/assets/163242445/73dde637-ba2a-4c9c-8a70-e941533dc9f2" width="500" height="400"> | <img src="https://github.com/febseo/backtest/assets/163242445/3e11986b-bdb9-4c23-bb1e-d975d3458411" width="400" height="400"> |
   
   게시판 |
  ---- |
-  <img src="https://github.com/febseo/backtest/assets/163242445/6df4e404-f551-4268-acd3-7d2acd2c4a90" width="800" height="400"> |
+  <img src="https://github.com/febseo/backtest/assets/163242445/6df4e404-f551-4268-acd3-7d2acd2c4a90" width="1000" height="400"> |
 
  
   <br><br>
