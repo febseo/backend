@@ -7,9 +7,9 @@
   <p><img src="https://github.com/febseo/backtest/assets/163242445/54b20436-6380-401f-a98b-745c9f44a296" width="50" height="40">    <strong>윤서연(조장)</strong>  곽주호  남채현  송혜선  안세민  오한림  홍윤표 </p>
   <br><br> 
 
+
   ## #2. 개요
-  #### 📍 제작기간
-   2024.02.22.목 ~ 2024.02.29.목 (8일)
+  <p><img src="https://github.com/febseo/backtest/assets/163242445/d675faab-93b2-473a-87b9-3fe75399a8a1">
   
   #### 📍 사용 프로그램
    Tool  |  DB  |  Language  |
@@ -20,10 +20,8 @@
   <br><br>
   
   ##  #3. 프로젝트 구조 및 모델
-  
-  🗜️ 엔티티 관계도 | 🗜️ 프로젝트 구조
-  ---- | ---- |
-  <img src="https://github.com/febseo/backtest/assets/163242445/61b1ca17-3139-43e8-894c-9980e8bc8d42"> | <img src="https://github.com/febseo/backtest/assets/163242445/2efc0e52-5fc2-41c6-90e1-d2afaac1bb46">
+  <p><img src="https://github.com/febseo/backtest/assets/163242445/985cd177-a5cf-4a4d-a01a-001232cad23c">
+
 
  <br><br><br>
 
@@ -40,6 +38,5 @@
 
   <br><br>
   ## #4-1. 워크플로우 문서화
-  <p><img src="https://github.com/febseo/backtest/assets/163242445/9fa13ad3-8837-4ab3-8c3a-166214542f62"></p><br>
-  <p><img src="https://github.com/febseo/backtest/assets/163242445/443e9f6d-df41-4121-8327-f7483a8ca4fa"></p>
-
+  <p><img src="https://github.com/febseo/backtest/assets/163242445/8d9b4dc7-1a0a-4d21-a2b8-79b6132e96cf"></p><br>
+  <p><img src="https://github.com/febseo/backtest/assets/163242445/c630e259-1a95-4d1d-bc51-f8affffce78c"></p>
