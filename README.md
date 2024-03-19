@@ -4,8 +4,8 @@
   
   ## #1 . 팀 구성
   <br>
-  <p> <img src="https://github.com/febseo/backtest/assets/163242445/54b20436-6380-401f-a98b-745c9f44a296" width="100" height="80"> <br><br> <strong>윤서연(조장)</strong>  곽주호  남채현  송혜선  안세민  오한림  홍윤표 </p>
-  <br><br>
+  <p><img src="https://github.com/febseo/backtest/assets/163242445/54b20436-6380-401f-a98b-745c9f44a296" width="50" height="40">    <strong>윤서연(조장)</strong>  곽주호  남채현  송혜선  안세민  오한림  홍윤표 </p>
+  <br><br> 
 
   ## #2. 개요
   #### 제작기간
