@@ -6,6 +6,6 @@
   
 엔티티 관계도 | 프로젝트 구조
 ---- | ---- |
-<img src="https://github.com/febseo/backtest/assets/163242445/0f0853be-19c4-41e0-a4e7-c796f92986c0" width="300" height="300"> | <img src="https://github.com/febseo/backtest/assets/163242445/eff0b3fe-856d-41b1-afb3-c314719d500c" width="300" height="300">
+<img src="https://github.com/febseo/backtest/assets/163242445/0f0853be-19c4-41e0-a4e7-c796f92986c0" width="400" height="400"> | <img src="https://github.com/febseo/backtest/assets/163242445/eff0b3fe-856d-41b1-afb3-c314719d500c" width="400" height="400">
 </div>
 
