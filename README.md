@@ -44,13 +44,24 @@
  
   <br><br>
   <h5>회원가입 워크플로우 영상</h5>
-  <p><img src="https://github.com/febseo/backtest/assets/163242445/ef19ab5e-6de9-49e7-850d-d7628f02c42c"></p>
+  <p>
+
+https://github.com/febseo/backtest/assets/163242445/3ac98761-cc05-4b58-bcf4-1d6c8968acb8
+
+</p>
   <br>
   <h5>로그인 워크플로우 영상</h5>
-  <p><img src="https://github.com/febseo/backtest/assets/163242445/08006af4-55dd-442a-a916-5eeecbc45ce0"></p>
+  <p>
+
+https://github.com/febseo/backtest/assets/163242445/accfd173-fca6-43fd-a202-2f0c147d6265
+
+</p>
   <br>
   <h5>게시판 워크플로우 영상</h5>
-  https://github.com/febseo/backtest/assets/163242445/3dfd82b9-65c7-4ecc-8ecb-d4d1d412a450
-</div>
+  <p>
+
+https://github.com/febseo/backtest/assets/163242445/bb12f9b5-3a63-4b36-9001-fb719a0d5c4a
+
+</p>
 
 
