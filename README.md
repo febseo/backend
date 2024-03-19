@@ -5,17 +5,22 @@
   ## #1 . 팀 구성
   <br>
   <p> <img src="https://github.com/febseo/backtest/assets/163242445/54b20436-6380-401f-a98b-745c9f44a296" width="100" height="80"> <br><br> <strong>윤서연(조장)</strong>  곽주호  남채현  송혜선  안세민  오한림  홍윤표 </p>
-  <br><br><br>
+  <br><br>
 
   ## #2. 개요
   #### 제작기간
   2024.02.22.목 ~ 2024.02.29.목 (8일)
   
   #### 사용 프로그램
-  TOOL : 
+  TOOL <br>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=eclipseide&logoColor=#fff"/> <br>
+  DB <br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=#fff"/> <br>
+  LANGUAGE <br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=#fff"/> <br>
+  
 
-
-  <br><br><br>
+  <br><br>
   
   ## #3. 프로젝트 구조 및 모델
   
