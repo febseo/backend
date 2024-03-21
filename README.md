@@ -1,5 +1,6 @@
 # 회원제 게시판 CRUD
-<br/><br/>
+Java + JSP 회원제 게시판 사이트
+<br/><br/><br/>
 <div align="left">
   
   ## #1. 팀 구성
